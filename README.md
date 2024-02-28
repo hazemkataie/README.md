@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=35&size=45&duration=4000&pause=500&color=5A9C75&center=true&vCenter=true&width=480&lines=Hazem+KATAIE;CE+%7C+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=45&duration=4000&pause=500&color=5A9C75&center=true&vCenter=true&random=false&width=480&lines=Hazem+KATAIE;Software+Engineer)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hazemkataie&theme=merko&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
